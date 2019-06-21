@@ -1,0 +1,2 @@
+          <?php echo img(['id'=>'image-gallery-image', 'class'=>'img-responsive img-rounded margin-0-auto', 'src'=>"{$JS_large_image->logo}", 'data-dismiss'=>'modal', 'alt'=>'Large Image']); ?>
+           <p class="close-msg">click on image to close</p>
